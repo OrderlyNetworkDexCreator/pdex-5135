@@ -39,6 +39,6 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_TRADING_VIEW_COLOR_CONFIG": "",
   "VITE_ANALYTICS_SCRIPT": "",
   "VITE_SYMBOL_LIST": "",
-  "VITE_RESTRICTED_REGIONS": "Iran,North Korea,Syria,Cuba,Venezuela,Netherlands,France,Germany,Lithuania,United States",
+  "VITE_RESTRICTED_REGIONS": "Iran,North Korea,Syria,Cuba,Venezuela,Netherlands,France,Germany,Lithuania",
   "VITE_WHITELISTED_IPS": ""
 };
